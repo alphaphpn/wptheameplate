@@ -1,0 +1,5 @@
+:CDHJUS4390
+<!-- div id="homain-logo" class="position-absolute align-middle ml-auto w-100">
+<?php // wptheameplate_post_thumbnail(); ?>
+<img src="<?php // echo $logowhite; ?>" style="opacity: .1">
+</div -->
