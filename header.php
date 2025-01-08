@@ -29,6 +29,8 @@ $norightclick = "true";
 
 $displaycontent = "";
 
+$homepageherosection = get_field('homepage_hero_section','option');
+
 if ($pageloader['enable_page_loader'] == 'Yes') {
 	$displaycontent = "display: none;";
 } else {
